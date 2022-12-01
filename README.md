@@ -1,1 +1,1 @@
-descargue el roar
+descargue el roar y descomprimalo
